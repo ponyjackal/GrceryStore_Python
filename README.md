@@ -1,8 +1,8 @@
 # Python-Final-Project
 Grocery-Store
 
-The program is based on “Indian grocery store management system” so, the catalogue for the system is designed on Indian products. This is implemented for small scale grocery stores.
-This also serves as electronic notebook for the grocery store. The interface which is being designed for program will be user friendly. This program will use MySQL database access.
+
+This serves as electronic notebook for the grocery store. The interface which is being designed for program will be user friendly. This program will use MySQL database access.
 
 ## Getting Started
 
